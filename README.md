@@ -73,13 +73,6 @@
   </ul>
 </div>
 
-<div class="section">
-  <h2>Key Insight</h2>
-  <p>
-    A significant raw gender pay gap exists, but after controlling for education, experience, and job role,
-    the gender effect becomes statistically insignificant. This suggests the gap is largely explained by other factors.
-  </p>
-</div>
 <h2>EDA Visualizations</h2>
 <img width="400" height="400" alt="Screenshot 2026-06-26 164337" src="https://github.com/user-attachments/assets/4a1e0b33-4446-4ab5-8126-b0220f02b22d" />
 <img width="400" height="350" alt="Screenshot 2026-06-26 164320" src="https://github.com/user-attachments/assets/24802fbc-dd58-4d4e-a100-5cb7fb5a54f7" />
@@ -87,6 +80,13 @@
 <img width="400" height="350" alt="Screenshot 2026-06-26 164252" src="https://github.com/user-attachments/assets/53f8c673-d1e8-4bce-817d-ae8468a3090e" />
 <img width="400" height="350" alt="Screenshot 2026-06-26 164236" src="https://github.com/user-attachments/assets/d138e898-aeee-4633-830d-da80ffd0af9d" />
 <img width="400" height="400" alt="Screenshot 2026-06-26 164221" src="https://github.com/user-attachments/assets/3ff4a5a3-af87-4184-a94a-3a5f55fdead1" />
+<div class="section">
+  <h2>Key Insight</h2>
+  <p>
+    A significant raw gender pay gap exists, but after controlling for education, experience, and job role,
+    the gender effect becomes statistically insignificant. This suggests the gap is largely explained by other factors.
+  </p>
+</div>
 
 
 </body>
