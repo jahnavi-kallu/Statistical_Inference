@@ -82,10 +82,10 @@
 </div>
 <h2>EDA Visualizations</h2>
 <img width="400" height="400" alt="Screenshot 2026-06-26 164337" src="https://github.com/user-attachments/assets/4a1e0b33-4446-4ab5-8126-b0220f02b22d" />
-<img width="500" height="400" alt="Screenshot 2026-06-26 164320" src="https://github.com/user-attachments/assets/24802fbc-dd58-4d4e-a100-5cb7fb5a54f7" />
+<img width="400" height="350" alt="Screenshot 2026-06-26 164320" src="https://github.com/user-attachments/assets/24802fbc-dd58-4d4e-a100-5cb7fb5a54f7" />
 <img width="400" height="400" alt="Screenshot 2026-06-26 164307" src="https://github.com/user-attachments/assets/4f8fa7e0-6c4c-409a-9e56-098d2e3e611f" />
-<img width="500" height="400" alt="Screenshot 2026-06-26 164252" src="https://github.com/user-attachments/assets/53f8c673-d1e8-4bce-817d-ae8468a3090e" />
-<img width="500" height="400" alt="Screenshot 2026-06-26 164236" src="https://github.com/user-attachments/assets/d138e898-aeee-4633-830d-da80ffd0af9d" />
+<img width="400" height="350" alt="Screenshot 2026-06-26 164252" src="https://github.com/user-attachments/assets/53f8c673-d1e8-4bce-817d-ae8468a3090e" />
+<img width="400" height="350" alt="Screenshot 2026-06-26 164236" src="https://github.com/user-attachments/assets/d138e898-aeee-4633-830d-da80ffd0af9d" />
 <img width="400" height="400" alt="Screenshot 2026-06-26 164221" src="https://github.com/user-attachments/assets/3ff4a5a3-af87-4184-a94a-3a5f55fdead1" />
 
 
